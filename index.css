@@ -1,0 +1,19 @@
+div{
+    background-color: fuchsia;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    display:inline-block;
+    text-decoration: none;
+    color: black;
+}
+div{
+    background-color: fuchsia;
+    padding: 2%;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
